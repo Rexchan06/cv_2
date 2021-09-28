@@ -60,8 +60,7 @@ hr {
 }
 
 .tt {
-  position: relative;
-  left: 55%;
+  text-align: right;
 }
 
 .cloud1 {
